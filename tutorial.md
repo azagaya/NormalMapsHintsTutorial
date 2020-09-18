@@ -164,7 +164,7 @@ example.
 
 You should see this a final result:
 
-![Skeleton deform with normal map](img/skeleton-with-normal)
+![Skeleton deform with normal map](img/skeleton-with-normal.gif)
 
 ## Normal maps in TileMaps
 
@@ -203,4 +203,5 @@ sepparated.
 ## Conclusions
 
 If you commpleted this mini-tutorial, now you should be able to use *normal maps* and 
+
 dynamic lighting in your 2D games for several use cases!
