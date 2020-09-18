@@ -164,7 +164,7 @@ example.
 
 You should see this a final result:
 
-![Skeleton deform with normal map](img/sekeleton-with-normal)
+![Skeleton deform with normal map](img/skeleton-with-normal)
 
 ## Normal maps in TileMaps
 
